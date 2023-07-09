@@ -1,5 +1,6 @@
 ﻿namespace BookStoreApi.Models
 {
+    //Make A Book Class
     public class Book
     {
         public int id { get; set; }
